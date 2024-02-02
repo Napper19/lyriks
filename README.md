@@ -4,6 +4,8 @@ Develop an elegant React.js Music Application.
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
 
+Site: https://napper19-lyriks-app.netlify.app/
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue.
